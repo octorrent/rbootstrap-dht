@@ -1,0 +1,8 @@
+[package]
+name = "rbootstrap-dht"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rlibdht = { path = "../rlibdht" }
+libc = "0.2.161"
